@@ -1,0 +1,27 @@
+# Engine-generated folders (always ignore)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Unreal plugin temporary files
+Plugins/**/Intermediate/
+Plugins/**/Binaries/
+
+# Config backups
+Config/*.ini~
+
+# Log and temp files
+*.log
+*.tmp
+
+# Auto-saves and backups
+Autosaves/
+Backup/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
